@@ -1,0 +1,12 @@
+Code;Description;Cost;Vol
+7197;Stormio;0,62;230
+7201;Melozio;0,62;230
+7209;Barista Creations Chocolate Fudge;0,65;230
+7211;Master Origins Colombia;0,69;230
+7216;Altissio;0,48;40
+7218;Diavolitto;0,48;40
+7219;Dolce;0,55;80
+7225;Scuro;0,55;80
+7229;Barista Creations Bianco Doppio;0,56;80
+7234;Melozio Decaf;0,64;230
+7244;Altissio Decaf;0,50;40

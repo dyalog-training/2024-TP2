@@ -1,0 +1,68 @@
+<Products>
+  <Product>
+    <Code>7197</Code>
+    <Description>Stormio</Description>
+    <Cost>0.62</Cost>
+    <Vol>230</Vol>
+  </Product>
+  <Product>
+    <Code>7201</Code>
+    <Description>Melozio</Description>
+    <Cost>0.62</Cost>
+    <Vol>230</Vol>
+  </Product>
+  <Product>
+    <Code>7209</Code>
+    <Description>Barista Creations Chocolate Fudge</Description>
+    <Cost>0.65</Cost>
+    <Vol>230</Vol>
+  </Product>
+  <Product>
+    <Code>7211</Code>
+    <Description>Master Origins Colombia</Description>
+    <Cost>0.69</Cost>
+    <Vol>230</Vol>
+  </Product>
+  <Product>
+    <Code>7216</Code>
+    <Description>Altissio</Description>
+    <Cost>0.48</Cost>
+    <Vol>40</Vol>
+  </Product>
+  <Product>
+    <Code>7218</Code>
+    <Description>Diavolitto</Description>
+    <Cost>0.48</Cost>
+    <Vol>40</Vol>
+  </Product>
+  <Product>
+    <Code>7219</Code>
+    <Description>Dolce</Description>
+    <Cost>0.55</Cost>
+    <Vol>80</Vol>
+  </Product>
+  <Product>
+    <Code>7225</Code>
+    <Description>Scuro</Description>
+    <Cost>0.55</Cost>
+    <Vol>80</Vol>
+  </Product>
+  <Product>
+    <Code>7229</Code>
+    <Description>Barista Creations Bianco Doppio</Description>
+    <Cost>0.56</Cost>
+    <Vol>80</Vol>
+  </Product>
+  <Product>
+    <Code>7234</Code>
+    <Description>Melozio Decaf</Description>
+    <Cost>0.64</Cost>
+    <Vol>230</Vol>
+  </Product>
+  <Product>
+    <Code>7244</Code>
+    <Description>Altissio Decaf</Description>
+    <Cost>0.5</Cost>
+    <Vol>40</Vol>
+  </Product>
+</Products>
